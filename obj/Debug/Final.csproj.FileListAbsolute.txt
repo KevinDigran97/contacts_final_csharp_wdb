@@ -1,0 +1,26 @@
+C:\Users\WhiteLab2.0\source\repos\Final\bin\Debug\Final.exe.config
+C:\Users\WhiteLab2.0\source\repos\Final\bin\Debug\Final.exe
+C:\Users\WhiteLab2.0\source\repos\Final\bin\Debug\Final.pdb
+C:\Users\WhiteLab2.0\source\repos\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\WhiteLab2.0\source\repos\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\WhiteLab2.0\source\repos\Final\obj\Debug\Final.Agregar.resources
+C:\Users\WhiteLab2.0\source\repos\Final\obj\Debug\Final.Contactos.resources
+C:\Users\WhiteLab2.0\source\repos\Final\obj\Debug\Final.Home.resources
+C:\Users\WhiteLab2.0\source\repos\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\WhiteLab2.0\source\repos\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\WhiteLab2.0\source\repos\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\WhiteLab2.0\source\repos\Final\obj\Debug\Final.exe
+C:\Users\WhiteLab2.0\source\repos\Final\obj\Debug\Final.pdb
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\bin\Debug\Final.exe.config
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\bin\Debug\Final.exe
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\bin\Debug\Final.pdb
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\obj\Debug\Final.Agregar.resources
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\obj\Debug\Final.Contactos.resources
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\obj\Debug\Final.Home.resources
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\obj\Debug\Final.Properties.Resources.resources
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\obj\Debug\Final.csproj.GenerateResource.cache
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\obj\Debug\Final.exe
+E:\repositorio II Semestre\Proyecto P.O.O  DS-II\Final\obj\Debug\Final.pdb
